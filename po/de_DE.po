@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Insight\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: Sascha Dückers <s.dueckers@gmail.com>\n"
+"Last-Translator: Sascha DÃƒÂ¼ckers <s.dueckers@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: public/views/transaction/tx.html
 msgid "(Input unconfirmed)"
-msgstr "(Eingabe unbestätigt)"
+msgstr "(Eingabe unbestÃƒÂ¤tigt)"
 
 #: public/views/404.html
 msgid "404 Page not found :("
@@ -23,34 +23,34 @@ msgstr "404 Seite nicht gefunden :("
 #: public/views/index.html
 msgid ""
 "<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" target="
-"\"_blank\">open-source Dash blockchain explorer</a> with complete REST "
+"\"_blank\">open-source Xchange blockchain explorer</a> with complete REST "
 "and websocket APIs that can be used for writing web wallets and other apps  "
-"that need more advanced blockchain queries than provided by dashd RPC.  "
-"Check out the <a href=\"https://github.com/dashpay/insight-ui-dash\" target=\"_blank"
+"that need more advanced blockchain queries than provided by Xchanged RPC.  "
+"Check out the <a href=\"https://github.com/Xchange/insight-ui-Xchange\" target=\"_blank"
 "\">source code</a>."
 msgstr ""
 "<strong>insight</strong> ist ein <a href=\"http://live.insight.is/\" target="
-"\"_blank\">Open Source Dash Blockchain Explorer</a> mit vollständigen "
+"\"_blank\">Open Source Xchange Blockchain Explorer</a> mit vollstÃƒÂ¤ndigen "
 "REST und Websocket APIs um eigene Wallets oder Applikationen zu "
 "implementieren. Hierbei werden fortschrittlichere Abfragen der Blockchain "
-"ermöglicht, bei denen die RPC des dashd nicht mehr ausreichen. Der "
-"aktuelle <a href=\"https://github.com/dashpay/insight-ui-dash\" target=\"_blank"
+"ermÃƒÂ¶glicht, bei denen die RPC des Xchanged nicht mehr ausreichen. Der "
+"aktuelle <a href=\"https://github.com/Xchange/insight-ui-Xchange\" target=\"_blank"
 "\">Quellcode</a> ist auf Github zu finden."
 
 #: public/views/index.html
 msgid ""
 "<strong>insight</strong> is still in development, so be sure to report any "
 "bugs and provide feedback for improvement at our <a href=\"https://github."
-"com/dashpay/insight/issues\" target=\"_blank\">github issue tracker</a>."
+"com/Xchange/insight/issues\" target=\"_blank\">github issue tracker</a>."
 msgstr ""
 "<strong>insight</strong> befindet sich aktuell noch in der Entwicklung. "
 "Bitte sende alle gefundenen Fehler (Bugs) und Feedback zur weiteren "
-"Verbesserung an unseren <a href=\"https://github.com/dashpay/insight-ui-dash/issues"
+"Verbesserung an unseren <a href=\"https://github.com/Xchange/insight-ui-Xchange/issues"
 "\" target=\"_blank\">Github Issue Tracker</a>."
 
 #: public/views/index.html
 msgid "About"
-msgstr "Über insight"
+msgstr "ÃƒÅ“ber insight"
 
 #: public/views/address.html
 msgid "Address"
@@ -69,8 +69,8 @@ msgid "Best Block"
 msgstr "Bester Block"
 
 #: public/views/status.html
-msgid "Dash node information"
-msgstr "Dash-Node Info"
+msgid "Xchange node information"
+msgstr "Xchange-Node Info"
 
 #: public/views/block.html
 msgid "Block"
@@ -83,7 +83,7 @@ msgstr "Belohnung"
 #: public/views/block_list.html public/views/dummy-translations.html
 #: public/views/status.html
 msgid "Blocks"
-msgstr "Blöcke"
+msgstr "BlÃƒÂ¶cke"
 
 #: public/views/status.html
 msgid "Bytes Serialized"
@@ -91,30 +91,30 @@ msgstr "Serialisierte Bytes"
 
 #: public/views/includes/connection.html
 msgid ""
-"Can't connect to dashd to get live updates from the p2p network. (Tried "
-"connecting to dashd at {{host}}:{{port}} and failed.)"
+"Can't connect to Xchanged to get live updates from the p2p network. (Tried "
+"connecting to Xchanged at {{host}}:{{port}} and failed.)"
 msgstr ""
-"Es ist nicht möglich mit dashd zu verbinden um live Aktualisierungen vom "
-"P2P Netzwerk zu erhalten. (Verbindungsversuch zu dashd an {{host}}:"
+"Es ist nicht mÃƒÂ¶glich mit Xchanged zu verbinden um live Aktualisierungen vom "
+"P2P Netzwerk zu erhalten. (Verbindungsversuch zu Xchanged an {{host}}:"
 "{{port}} ist fehlgeschlagen.)"
 
 #: public/views/includes/connection.html
 msgid "Can't connect to insight server. Attempting to reconnect..."
 msgstr ""
-"Keine Verbindung zum insight-Server möglich. Es wird versucht die "
+"Keine Verbindung zum insight-Server mÃƒÂ¶glich. Es wird versucht die "
 "Verbindung neu aufzubauen..."
 
 #: public/views/includes/connection.html
 msgid "Can't connect to internet. Please, check your connection."
-msgstr "Keine Verbindung zum Internet möglich, bitte Zugangsdaten prüfen."
+msgstr "Keine Verbindung zum Internet mÃƒÂ¶glich, bitte Zugangsdaten prÃƒÂ¼fen."
 
 #: public/views/status.html
 msgid "Complete"
-msgstr "Vollständig"
+msgstr "VollstÃƒÂ¤ndig"
 
 #: public/views/transaction.html public/views/transaction/tx.html
 msgid "Confirmations"
-msgstr "Bestätigungen"
+msgstr "BestÃƒÂ¤tigungen"
 
 #: public/views/includes/header.html
 msgid "Conn"
@@ -150,7 +150,7 @@ msgstr "Fehler!"
 
 #: public/views/transaction/tx.html
 msgid "Fee"
-msgstr "Gebühr"
+msgstr "GebÃƒÂ¼hr"
 
 #: public/views/address.html
 msgid "Final Balance"
@@ -172,11 +172,11 @@ msgstr "Hash Serialisiert"
 #: public/views/index.html public/views/status.html
 #: public/views/includes/header.html
 msgid "Height"
-msgstr "Höhe"
+msgstr "HÃƒÂ¶he"
 
 #: public/views/transaction.html public/views/transaction/tx.html
 msgid "Included in Block"
-msgstr "Eingefügt in Block"
+msgstr "EingefÃƒÂ¼gt in Block"
 
 #: public/views/transaction/tx.html
 msgid "Incoherence in levelDB detected:"
@@ -188,23 +188,23 @@ msgstr "Fehlerbeschreibung"
 
 #: public/views/status.html
 msgid "Initial Block Chain Height"
-msgstr "Ursprüngliche Blockchain Höhe"
+msgstr "UrsprÃƒÂ¼ngliche Blockchain HÃƒÂ¶he"
 
 #: public/views/transaction.html
 msgid "Input"
-msgstr "Eingänge"
+msgstr "EingÃƒÂ¤nge"
 
 #: public/views/status.html
 msgid "Last Block"
 msgstr "Letzter Block"
 
 #: public/views/status.html
-msgid "Last Block Hash (dashd)"
-msgstr "Letzter Hash (dashd)"
+msgid "Last Block Hash (Xchanged)"
+msgstr "Letzter Hash (Xchanged)"
 
 #: public/views/index.html
 msgid "Latest Blocks"
-msgstr "Letzte Blöcke"
+msgstr "Letzte BlÃƒÂ¶cke"
 
 #: public/views/index.html
 msgid "Latest Transactions"
@@ -220,7 +220,7 @@ msgstr "Lade Blockinformation"
 
 #: public/views/block_list.html
 msgid "Loading Selected Date..."
-msgstr "Lade gewähltes Datum..."
+msgstr "Lade gewÃƒÂ¤hltes Datum..."
 
 #: public/views/transaction.html
 msgid "Loading Transaction Details"
@@ -249,19 +249,19 @@ msgstr "Schwierigkeitgrad"
 
 #: public/views/block.html
 msgid "Next Block"
-msgstr "Nächster Block"
+msgstr "NÃƒÂ¤chster Block"
 
 #: public/views/transaction/tx.html
 msgid "No Inputs (Newly Generated Coins)"
-msgstr "Keine Eingänge (Neu generierte Coins)"
+msgstr "Keine EingÃƒÂ¤nge (Neu generierte Coins)"
 
 #: public/views/block_list.html
 msgid "No blocks yet."
-msgstr "Keine Blöcke bisher."
+msgstr "Keine BlÃƒÂ¶cke bisher."
 
 #: public/views/includes/header.html public/views/includes/search.html
 msgid "No matching records found!"
-msgstr "Keine passenden Einträge gefunden!"
+msgstr "Keine passenden EintrÃƒÂ¤ge gefunden!"
 
 #: public/views/address.html
 msgid "No. Transactions"
@@ -273,7 +273,7 @@ msgstr "Anzahl der Transaktionen"
 
 #: public/views/transaction.html
 msgid "Output"
-msgstr "Ausgänge"
+msgstr "AusgÃƒÂ¤nge"
 
 #: public/views/index.html
 msgid "Powered by"
@@ -305,11 +305,11 @@ msgstr "Suche Block, Transaktion oder Adresse"
 
 #: public/views/index.html
 msgid "See all blocks"
-msgstr "Alle Blöcke anzeigen"
+msgstr "Alle BlÃƒÂ¶cke anzeigen"
 
 #: public/views/status.html
 msgid "Show Transaction Output data"
-msgstr "Zeige Abgänge"
+msgstr "Zeige AbgÃƒÂ¤nge"
 
 #: public/views/transaction/tx.html
 msgid "Show all"
@@ -317,7 +317,7 @@ msgstr "Zeige Alles"
 
 #: public/views/transaction/tx.html
 msgid "Show input"
-msgstr "Zeige Eingänge"
+msgstr "Zeige EingÃƒÂ¤nge"
 
 #: public/views/transaction/tx.html
 msgid "Show less"
@@ -330,15 +330,15 @@ msgstr "Mehr anzeigen"
 #: public/views/block_list.html public/views/index.html
 #: public/views/transaction.html
 msgid "Size"
-msgstr "Größe"
+msgstr "GrÃƒÂ¶ÃƒÅ¸e"
 
 #: public/views/block.html
 msgid "Size (bytes)"
-msgstr "Größe (bytes)"
+msgstr "GrÃƒÂ¶ÃƒÅ¸e (bytes)"
 
 #: public/views/status.html
 msgid "Skipped Blocks (previously synced)"
-msgstr "Verworfene Blöcke (bereits syncronisiert)"
+msgstr "Verworfene BlÃƒÂ¶cke (bereits syncronisiert)"
 
 #: public/views/status.html
 msgid "Start Date"
@@ -354,7 +354,7 @@ msgstr "Zusammenfassung"
 
 #: public/views/address.html
 msgid "Summary <small>confirmed</small>"
-msgstr "Zusammenfassung <small>bestätigt</small>"
+msgstr "Zusammenfassung <small>bestÃƒÂ¤tigt</small>"
 
 #: public/views/status.html
 msgid "Sync Progress"
@@ -370,7 +370,7 @@ msgstr "Art der Syncronisation"
 
 #: public/views/status.html
 msgid "Synced Blocks"
-msgstr "Syncronisierte Blöcke"
+msgstr "Syncronisierte BlÃƒÂ¶cke"
 
 #: public/views/status.html
 msgid "Testnet"
@@ -410,11 +410,11 @@ msgstr "Transaktion"
 
 #: public/views/status.html
 msgid "Transaction Output Set Information"
-msgstr "Transaktions Abgänge"
+msgstr "Transaktions AbgÃƒÂ¤nge"
 
 #: public/views/status.html
 msgid "Transaction Outputs"
-msgstr "Abgänge"
+msgstr "AbgÃƒÂ¤nge"
 
 #: public/views/address.html public/views/block.html
 #: public/views/block_list.html public/views/index.html
@@ -428,15 +428,15 @@ msgstr "Typ"
 
 #: public/views/address.html
 msgid "Unconfirmed"
-msgstr "Unbestätigt"
+msgstr "UnbestÃƒÂ¤tigt"
 
 #: public/views/transaction.html public/views/transaction/tx.html
 msgid "Unconfirmed Transaction!"
-msgstr "Unbestätigte Transaktion!"
+msgstr "UnbestÃƒÂ¤tigte Transaktion!"
 
 #: public/views/address.html
 msgid "Unconfirmed Txs Balance"
-msgstr "Unbestätigtes Guthaben"
+msgstr "UnbestÃƒÂ¤tigtes Guthaben"
 
 #: public/views/index.html
 msgid "Value Out"
@@ -448,7 +448,7 @@ msgstr "Version"
 
 #: public/views/block_list.html public/views/index.html
 msgid "Waiting for blocks..."
-msgstr "Warte auf Blöcke..."
+msgstr "Warte auf BlÃƒÂ¶cke..."
 
 #: public/views/index.html
 msgid "Waiting for transactions..."
@@ -471,4 +471,4 @@ msgid "mined on:"
 msgstr "vom:"
 
 msgid "Waiting for blocks"
-msgstr "Warte auf Blöcke"
+msgstr "Warte auf BlÃƒÂ¶cke"

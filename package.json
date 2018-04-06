@@ -1,8 +1,8 @@
 {
-  "name": "insight-ui-dash",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Dash network and build your own services with it.",
+  "name": "insight-ui-Xchange",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Xchange network and build your own services with it.",
   "version": "0.4.3",
-  "repository": "git://github.com/dashpay/insight-ui-dash.git",
+  "repository": "git://github.com/Xchange/insight-ui-Xchange.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -26,19 +26,19 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/dashpay/insight-ui-dash/issues"
+    "url": "https://github.com/Xchange/insight-ui-Xchange/issues"
   },
-  "homepage": "https://github.com/dashpay/insight-ui-dash",
+  "homepage": "https://github.com/Xchange/insight-ui-Xchange",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "dash",
-    "bitcore-dash",
+    "Xchange",
+    "bitcore-Xchange",
     "front-end"
   ],
-  "bitcoreNode": "bitcore-node-dash",
+  "bitcoreNode": "bitcore-node-Xchange",
   "dependencies": {
   },
   "devDependencies": {

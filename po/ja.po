@@ -13,286 +13,286 @@ msgstr ""
 
 #: public/views/transaction/tx.html
 msgid "(Input unconfirmed)"
-msgstr "(入力は未検証です)"
+msgstr "(Ã¥â€¦Â¥Ã¥Å â€ºÃ£ÂÂ¯Ã¦Å“ÂªÃ¦Â¤Å“Ã¨Â¨Â¼Ã£ÂÂ§Ã£Ââ„¢)"
 
 #: public/views/404.html
 msgid "404 Page not found :("
-msgstr "404 ページがみつかりません (´・ω・`)"
+msgstr "404 Ã£Æ’Å¡Ã£Æ’Â¼Ã£â€šÂ¸Ã£ÂÅ’Ã£ÂÂ¿Ã£ÂÂ¤Ã£Ââ€¹Ã£â€šÅ Ã£ÂÂ¾Ã£Ââ€ºÃ£â€šâ€œ (Ã‚Â´Ã£Æ’Â»Ãâ€°Ã£Æ’Â»`)"
 
 #: public/views/index.html
 msgid ""
 "<strong>insight</strong>  is an <a href=\"http://live.insight.is/\" target="
-"\"_blank\">open-source Dash blockchain explorer</a> with complete REST "
+"\"_blank\">open-source Xchange blockchain explorer</a> with complete REST "
 "and websocket APIs that can be used for writing web wallets and other apps  "
-"that need more advanced blockchain queries than provided by dashd RPC.  "
-"Check out the <a href=\"https://github.com/dashpay/insight-ui-dash\" target=\"_blank"
+"that need more advanced blockchain queries than provided by Xchanged RPC.  "
+"Check out the <a href=\"https://github.com/Xchange/insight-ui-Xchange\" target=\"_blank"
 "\">source code</a>."
 msgstr ""
-"<strong>insight</strong>は、dashd RPCの提供するものよりも詳細なブロック"
-"チェインへの問い合わせを必要とするウェブウォレットやその他のアプリを書くのに"
-"使える、完全なRESTおよびwebsocket APIを備えた<a href=\"http://live.insight."
-"is/\" target=\"_blank\">オープンソースのビットコインブロックエクスプローラ</"
-"a>です。<a href=\"https://github.com/dashpay/insight-ui-dash\" target=\"_blank\">ソース"
-"コード</a>を確認"
+"<strong>insight</strong>Ã£ÂÂ¯Ã£â‚¬ÂXchanged RPCÃ£ÂÂ®Ã¦ÂÂÃ¤Â¾â€ºÃ£Ââ„¢Ã£â€šâ€¹Ã£â€šâ€šÃ£ÂÂ®Ã£â€šË†Ã£â€šÅ Ã£â€šâ€šÃ¨Â©Â³Ã§Â´Â°Ã£ÂÂªÃ£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯"
+"Ã£Æ’ÂÃ£â€šÂ§Ã£â€šÂ¤Ã£Æ’Â³Ã£ÂÂ¸Ã£ÂÂ®Ã¥â€¢ÂÃ£Ââ€žÃ¥ÂË†Ã£â€šÂÃ£Ââ€ºÃ£â€šâ€™Ã¥Â¿â€¦Ã¨Â¦ÂÃ£ÂÂ¨Ã£Ââ„¢Ã£â€šâ€¹Ã£â€šÂ¦Ã£â€šÂ§Ã£Æ’â€“Ã£â€šÂ¦Ã£â€šÂ©Ã£Æ’Â¬Ã£Æ’Æ’Ã£Æ’Ë†Ã£â€šâ€žÃ£ÂÂÃ£ÂÂ®Ã¤Â»â€“Ã£ÂÂ®Ã£â€šÂ¢Ã£Æ’â€”Ã£Æ’ÂªÃ£â€šâ€™Ã¦â€ºÂ¸Ã£ÂÂÃ£ÂÂ®Ã£ÂÂ«"
+"Ã¤Â½Â¿Ã£ÂË†Ã£â€šâ€¹Ã£â‚¬ÂÃ¥Â®Å’Ã¥â€¦Â¨Ã£ÂÂªRESTÃ£ÂÅ Ã£â€šË†Ã£ÂÂ³websocket APIÃ£â€šâ€™Ã¥â€šâ„¢Ã£ÂË†Ã£ÂÅ¸<a href=\"http://live.insight."
+"is/\" target=\"_blank\">Ã£â€šÂªÃ£Æ’Â¼Ã£Æ’â€”Ã£Æ’Â³Ã£â€šÂ½Ã£Æ’Â¼Ã£â€šÂ¹Ã£ÂÂ®Ã£Æ’â€œÃ£Æ’Æ’Ã£Æ’Ë†Ã£â€šÂ³Ã£â€šÂ¤Ã£Æ’Â³Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã£â€šÂ¨Ã£â€šÂ¯Ã£â€šÂ¹Ã£Æ’â€”Ã£Æ’Â­Ã£Æ’Â¼Ã£Æ’Â©</"
+"a>Ã£ÂÂ§Ã£Ââ„¢Ã£â‚¬â€š<a href=\"https://github.com/Xchange/insight-ui-Xchange\" target=\"_blank\">Ã£â€šÂ½Ã£Æ’Â¼Ã£â€šÂ¹"
+"Ã£â€šÂ³Ã£Æ’Â¼Ã£Æ’â€°</a>Ã£â€šâ€™Ã§Â¢ÂºÃ¨ÂªÂ"
 
 #: public/views/index.html
 msgid ""
 "<strong>insight</strong> is still in development, so be sure to report any "
 "bugs and provide feedback for improvement at our <a href=\"https://github."
-"com/dashpay/insight/issues\" target=\"_blank\">github issue tracker</a>."
+"com/Xchange/insight/issues\" target=\"_blank\">github issue tracker</a>."
 msgstr ""
-"<strong>insight</strong>は現在開発中です。<a href=\"https://github.com/"
-"dashpay/insight/issues\" target=\"_blank\">githubのissueトラッカ</a>にてバグの"
-"報告や改善案の提案をお願いします。"
+"<strong>insight</strong>Ã£ÂÂ¯Ã§ÂÂ¾Ã¥Å“Â¨Ã©â€“â€¹Ã§â„¢ÂºÃ¤Â¸Â­Ã£ÂÂ§Ã£Ââ„¢Ã£â‚¬â€š<a href=\"https://github.com/"
+"Xchange/insight/issues\" target=\"_blank\">githubÃ£ÂÂ®issueÃ£Æ’Ë†Ã£Æ’Â©Ã£Æ’Æ’Ã£â€šÂ«</a>Ã£ÂÂ«Ã£ÂÂ¦Ã£Æ’ÂÃ£â€šÂ°Ã£ÂÂ®"
+"Ã¥Â Â±Ã¥â€˜Å Ã£â€šâ€žÃ¦â€Â¹Ã¥â€“â€žÃ¦Â¡Ë†Ã£ÂÂ®Ã¦ÂÂÃ¦Â¡Ë†Ã£â€šâ€™Ã£ÂÅ Ã©Â¡ËœÃ£Ââ€žÃ£Ââ€”Ã£ÂÂ¾Ã£Ââ„¢Ã£â‚¬â€š"
 
 #: public/views/index.html
 msgid "About"
-msgstr "はじめに"
+msgstr "Ã£ÂÂ¯Ã£ÂËœÃ£â€šÂÃ£ÂÂ«"
 
 #: public/views/address.html public/views/messages_verify.html
 msgid "Address"
-msgstr "アドレス"
+msgstr "Ã£â€šÂ¢Ã£Æ’â€°Ã£Æ’Â¬Ã£â€šÂ¹"
 
 #: public/views/index.html
 msgid "Age"
-msgstr "生成後経過時間"
+msgstr "Ã§â€Å¸Ã¦Ë†ÂÃ¥Â¾Å’Ã§ÂµÅ’Ã©ÂÅ½Ã¦â„¢â€šÃ©â€“â€œ"
 
 #: public/views/messages_verify.html
 msgid "An error occured in the verification process."
-msgstr "検証過程でエラーが発生しました。"
+msgstr "Ã¦Â¤Å“Ã¨Â¨Â¼Ã©ÂÅ½Ã§Â¨â€¹Ã£ÂÂ§Ã£â€šÂ¨Ã£Æ’Â©Ã£Æ’Â¼Ã£ÂÅ’Ã§â„¢ÂºÃ§â€Å¸Ã£Ââ€”Ã£ÂÂ¾Ã£Ââ€”Ã£ÂÅ¸Ã£â‚¬â€š"
 
 #: public/views/transaction_sendraw.html
 msgid "An error occured:<br>{{error}}"
-msgstr "エラーが発生しました:<br>{{error}}"
+msgstr "Ã£â€šÂ¨Ã£Æ’Â©Ã£Æ’Â¼Ã£ÂÅ’Ã§â„¢ÂºÃ§â€Å¸Ã£Ââ€”Ã£ÂÂ¾Ã£Ââ€”Ã£ÂÅ¸:<br>{{error}}"
 
 #: public/views/status.html
 msgid "Application Status"
-msgstr "アプリケーションの状態"
+msgstr "Ã£â€šÂ¢Ã£Æ’â€”Ã£Æ’ÂªÃ£â€šÂ±Ã£Æ’Â¼Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£ÂÂ®Ã§Å Â¶Ã¦â€¦â€¹"
 
 #: public/views/status.html
 msgid "Best Block"
-msgstr "最良ブロック"
+msgstr "Ã¦Å“â‚¬Ã¨â€°Â¯Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯"
 
 #: public/views/messages_verify.html
-msgid "Dash comes with a way of signing arbitrary messages."
-msgstr "Dashには任意のメッセージを署名する昨日が備わっています。"
+msgid "Xchange comes with a way of signing arbitrary messages."
+msgstr "XchangeÃ£ÂÂ«Ã£ÂÂ¯Ã¤Â»Â»Ã¦â€žÂÃ£ÂÂ®Ã£Æ’Â¡Ã£Æ’Æ’Ã£â€šÂ»Ã£Æ’Â¼Ã£â€šÂ¸Ã£â€šâ€™Ã§Â½Â²Ã¥ÂÂÃ£Ââ„¢Ã£â€šâ€¹Ã¦ËœÂ¨Ã¦â€”Â¥Ã£ÂÅ’Ã¥â€šâ„¢Ã£â€šÂÃ£ÂÂ£Ã£ÂÂ¦Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢Ã£â‚¬â€š"
 
 #: public/views/status.html
-msgid "Dash node information"
-msgstr "Dashノード情報"
+msgid "Xchange node information"
+msgstr "XchangeÃ£Æ’Å½Ã£Æ’Â¼Ã£Æ’â€°Ã¦Æ’â€¦Ã¥Â Â±"
 
 #: public/views/block.html
 msgid "Block"
-msgstr "ブロック"
+msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯"
 
 #: public/views/block.html
 msgid "Block Reward"
-msgstr "ブロック報酬"
+msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã¥Â Â±Ã©â€¦Â¬"
 
 #: public/views/block_list.html public/views/dummy-translations.html
 #: public/views/status.html
 msgid "Blocks"
-msgstr "ブロック"
+msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯"
 
 #: public/views/transaction_sendraw.html
 msgid "Broadcast Raw Transaction"
-msgstr "生のトランザクションを配信"
+msgstr "Ã§â€Å¸Ã£ÂÂ®Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£â€šâ€™Ã©â€¦ÂÃ¤Â¿Â¡"
 
 #: public/views/status.html
 msgid "Bytes Serialized"
-msgstr "シリアライズ後の容量 (バイト)"
+msgstr "Ã£â€šÂ·Ã£Æ’ÂªÃ£â€šÂ¢Ã£Æ’Â©Ã£â€šÂ¤Ã£â€šÂºÃ¥Â¾Å’Ã£ÂÂ®Ã¥Â®Â¹Ã©â€¡Â (Ã£Æ’ÂÃ£â€šÂ¤Ã£Æ’Ë†)"
 
 #: public/views/includes/connection.html
 msgid ""
-"Can't connect to dashd to get live updates from the p2p network. (Tried "
-"connecting to dashd at {{host}}:{{port}} and failed.)"
+"Can't connect to Xchanged to get live updates from the p2p network. (Tried "
+"connecting to Xchanged at {{host}}:{{port}} and failed.)"
 msgstr ""
-"P2Pネットワークからライブ情報を取得するためにdashdへ接続することができませ"
-"んでした。({{host}}:{{port}} への接続を試みましたが、失敗しました。)"
+"P2PÃ£Æ’ÂÃ£Æ’Æ’Ã£Æ’Ë†Ã£Æ’Â¯Ã£Æ’Â¼Ã£â€šÂ¯Ã£Ââ€¹Ã£â€šâ€°Ã£Æ’Â©Ã£â€šÂ¤Ã£Æ’â€“Ã¦Æ’â€¦Ã¥Â Â±Ã£â€šâ€™Ã¥Ââ€“Ã¥Â¾â€”Ã£Ââ„¢Ã£â€šâ€¹Ã£ÂÅ¸Ã£â€šÂÃ£ÂÂ«XchangedÃ£ÂÂ¸Ã¦Å½Â¥Ã§Â¶Å¡Ã£Ââ„¢Ã£â€šâ€¹Ã£Ââ€œÃ£ÂÂ¨Ã£ÂÅ’Ã£ÂÂ§Ã£ÂÂÃ£ÂÂ¾Ã£Ââ€º"
+"Ã£â€šâ€œÃ£ÂÂ§Ã£Ââ€”Ã£ÂÅ¸Ã£â‚¬â€š({{host}}:{{port}} Ã£ÂÂ¸Ã£ÂÂ®Ã¦Å½Â¥Ã§Â¶Å¡Ã£â€šâ€™Ã¨Â©Â¦Ã£ÂÂ¿Ã£ÂÂ¾Ã£Ââ€”Ã£ÂÅ¸Ã£ÂÅ’Ã£â‚¬ÂÃ¥Â¤Â±Ã¦â€¢â€”Ã£Ââ€”Ã£ÂÂ¾Ã£Ââ€”Ã£ÂÅ¸Ã£â‚¬â€š)"
 
 #: public/views/includes/connection.html
 msgid "Can't connect to insight server. Attempting to reconnect..."
-msgstr "insight サーバに接続できません。再接続しています..."
+msgstr "insight Ã£â€šÂµÃ£Æ’Â¼Ã£Æ’ÂÃ£ÂÂ«Ã¦Å½Â¥Ã§Â¶Å¡Ã£ÂÂ§Ã£ÂÂÃ£ÂÂ¾Ã£Ââ€ºÃ£â€šâ€œÃ£â‚¬â€šÃ¥â€ ÂÃ¦Å½Â¥Ã§Â¶Å¡Ã£Ââ€”Ã£ÂÂ¦Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢..."
 
 #: public/views/includes/connection.html
 msgid "Can't connect to internet. Please, check your connection."
-msgstr "インターネットに接続できません。コネクションを確認してください。"
+msgstr "Ã£â€šÂ¤Ã£Æ’Â³Ã£â€šÂ¿Ã£Æ’Â¼Ã£Æ’ÂÃ£Æ’Æ’Ã£Æ’Ë†Ã£ÂÂ«Ã¦Å½Â¥Ã§Â¶Å¡Ã£ÂÂ§Ã£ÂÂÃ£ÂÂ¾Ã£Ââ€ºÃ£â€šâ€œÃ£â‚¬â€šÃ£â€šÂ³Ã£Æ’ÂÃ£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£â€šâ€™Ã§Â¢ÂºÃ¨ÂªÂÃ£Ââ€”Ã£ÂÂ¦Ã£ÂÂÃ£ÂÂ Ã£Ââ€¢Ã£Ââ€žÃ£â‚¬â€š"
 
 #: public/views/status.html
 msgid "Complete"
-msgstr "完了"
+msgstr "Ã¥Â®Å’Ã¤Âºâ€ "
 
 #: public/views/transaction.html public/views/transaction/tx.html
 msgid "Confirmations"
-msgstr "検証数"
+msgstr "Ã¦Â¤Å“Ã¨Â¨Â¼Ã¦â€¢Â°"
 
 #: public/views/includes/header.html
 msgid "Conn"
-msgstr "接続数"
+msgstr "Ã¦Å½Â¥Ã§Â¶Å¡Ã¦â€¢Â°"
 
 #: public/views/status.html
 msgid "Connections to other nodes"
-msgstr "他ノードへの接続"
+msgstr "Ã¤Â»â€“Ã£Æ’Å½Ã£Æ’Â¼Ã£Æ’â€°Ã£ÂÂ¸Ã£ÂÂ®Ã¦Å½Â¥Ã§Â¶Å¡"
 
 #: public/views/status.html
 msgid "Current Blockchain Tip (insight)"
-msgstr "現在のブロックチェインのTip (insight)"
+msgstr "Ã§ÂÂ¾Ã¥Å“Â¨Ã£ÂÂ®Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã£Æ’ÂÃ£â€šÂ§Ã£â€šÂ¤Ã£Æ’Â³Ã£ÂÂ®Tip (insight)"
 
 #: public/views/status.html
 msgid "Current Sync Status"
-msgstr "現在の同期状況"
+msgstr "Ã§ÂÂ¾Ã¥Å“Â¨Ã£ÂÂ®Ã¥ÂÅ’Ã¦Å“Å¸Ã§Å Â¶Ã¦Â³Â"
 
 #: public/views/transaction.html
 msgid "Details"
-msgstr "詳細"
+msgstr "Ã¨Â©Â³Ã§Â´Â°"
 
 #: public/views/block.html
 msgid "Difficulty"
-msgstr "難易度"
+msgstr "Ã©â€ºÂ£Ã¦Ëœâ€œÃ¥ÂºÂ¦"
 
 #: public/views/transaction/tx.html
 msgid "Double spent attempt detected. From tx:"
-msgstr "二重支払い攻撃をこのトランザクションから検知しました："
+msgstr "Ã¤ÂºÅ’Ã©â€¡ÂÃ¦â€Â¯Ã¦â€°â€¢Ã£Ââ€žÃ¦â€Â»Ã¦â€™Æ’Ã£â€šâ€™Ã£Ââ€œÃ£ÂÂ®Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£Ââ€¹Ã£â€šâ€°Ã¦Â¤Å“Ã§Å¸Â¥Ã£Ââ€”Ã£ÂÂ¾Ã£Ââ€”Ã£ÂÅ¸Ã¯Â¼Å¡"
 
 #: public/views/messages_verify.html
 msgid "Error message:"
-msgstr "エラーメッセージ:"
+msgstr "Ã£â€šÂ¨Ã£Æ’Â©Ã£Æ’Â¼Ã£Æ’Â¡Ã£Æ’Æ’Ã£â€šÂ»Ã£Æ’Â¼Ã£â€šÂ¸:"
 
 #: public/views/includes/connection.html
 msgid "Error!"
-msgstr "エラー！"
+msgstr "Ã£â€šÂ¨Ã£Æ’Â©Ã£Æ’Â¼Ã¯Â¼Â"
 
 #: public/views/transaction/tx.html
 msgid "Fee"
-msgstr "手数料"
+msgstr "Ã¦â€°â€¹Ã¦â€¢Â°Ã¦â€“â„¢"
 
 #: public/views/address.html
 msgid "Final Balance"
-msgstr "最終残高"
+msgstr "Ã¦Å“â‚¬Ã§Âµâ€šÃ¦Â®â€¹Ã©Â«Ëœ"
 
 #: public/views/status.html
 msgid "Finish Date"
-msgstr "終了日時"
+msgstr "Ã§Âµâ€šÃ¤Âºâ€ Ã¦â€”Â¥Ã¦â„¢â€š"
 
 #: public/views/404.html
 msgid "Go to home"
-msgstr "ホームへ"
+msgstr "Ã£Æ’â€ºÃ£Æ’Â¼Ã£Æ’Â Ã£ÂÂ¸"
 
 #: public/views/status.html
 msgid "Hash Serialized"
-msgstr "シリアライズデータのハッシュ値"
+msgstr "Ã£â€šÂ·Ã£Æ’ÂªÃ£â€šÂ¢Ã£Æ’Â©Ã£â€šÂ¤Ã£â€šÂºÃ£Æ’â€¡Ã£Æ’Â¼Ã£â€šÂ¿Ã£ÂÂ®Ã£Æ’ÂÃ£Æ’Æ’Ã£â€šÂ·Ã£Æ’Â¥Ã¥â‚¬Â¤"
 
 #: public/views/block.html public/views/block_list.html
 #: public/views/index.html public/views/status.html
 #: public/views/includes/header.html
 msgid "Height"
-msgstr "ブロック高"
+msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã©Â«Ëœ"
 
 #: public/views/transaction.html public/views/transaction/tx.html
 msgid "Included in Block"
-msgstr "取り込まれたブロック"
+msgstr "Ã¥Ââ€“Ã£â€šÅ Ã¨Â¾Â¼Ã£ÂÂ¾Ã£â€šÅ’Ã£ÂÅ¸Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯"
 
 #: public/views/transaction/tx.html
 msgid "Incoherence in levelDB detected:"
-msgstr "levelDBの破損を検知しました:"
+msgstr "levelDBÃ£ÂÂ®Ã§Â Â´Ã¦ÂÂÃ£â€šâ€™Ã¦Â¤Å“Ã§Å¸Â¥Ã£Ââ€”Ã£ÂÂ¾Ã£Ââ€”Ã£ÂÅ¸:"
 
 #: public/views/status.html
 msgid "Info Errors"
-msgstr "エラー情報"
+msgstr "Ã£â€šÂ¨Ã£Æ’Â©Ã£Æ’Â¼Ã¦Æ’â€¦Ã¥Â Â±"
 
 #: public/views/status.html
 msgid "Initial Block Chain Height"
-msgstr "起動時のブロック高"
+msgstr "Ã¨ÂµÂ·Ã¥â€¹â€¢Ã¦â„¢â€šÃ£ÂÂ®Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã©Â«Ëœ"
 
 #: public/views/transaction.html
 msgid "Input"
-msgstr "入力"
+msgstr "Ã¥â€¦Â¥Ã¥Å â€º"
 
 #: public/views/status.html
 msgid "Last Block"
-msgstr "直前のブロック"
+msgstr "Ã§â€ºÂ´Ã¥â€°ÂÃ£ÂÂ®Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯"
 
 #: public/views/status.html
-msgid "Last Block Hash (dashd)"
-msgstr "直前のブロックのハッシュ値 (dashd)"
+msgid "Last Block Hash (Xchanged)"
+msgstr "Ã§â€ºÂ´Ã¥â€°ÂÃ£ÂÂ®Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã£ÂÂ®Ã£Æ’ÂÃ£Æ’Æ’Ã£â€šÂ·Ã£Æ’Â¥Ã¥â‚¬Â¤ (Xchanged)"
 
 #: public/views/index.html
 msgid "Latest Blocks"
-msgstr "最新のブロック"
+msgstr "Ã¦Å“â‚¬Ã¦â€“Â°Ã£ÂÂ®Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯"
 
 #: public/views/index.html
 msgid "Latest Transactions"
-msgstr "最新のトランザクション"
+msgstr "Ã¦Å“â‚¬Ã¦â€“Â°Ã£ÂÂ®Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³"
 
 #: public/views/address.html
 msgid "Loading Address Information"
-msgstr "アドレス情報を読み込んでいます"
+msgstr "Ã£â€šÂ¢Ã£Æ’â€°Ã£Æ’Â¬Ã£â€šÂ¹Ã¦Æ’â€¦Ã¥Â Â±Ã£â€šâ€™Ã¨ÂªÂ­Ã£ÂÂ¿Ã¨Â¾Â¼Ã£â€šâ€œÃ£ÂÂ§Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢"
 
 #: public/views/block.html
 msgid "Loading Block Information"
-msgstr "ブロック情報を読み込んでいます"
+msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã¦Æ’â€¦Ã¥Â Â±Ã£â€šâ€™Ã¨ÂªÂ­Ã£ÂÂ¿Ã¨Â¾Â¼Ã£â€šâ€œÃ£ÂÂ§Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢"
 
 #: public/views/block_list.html
 msgid "Loading Selected Date..."
-msgstr "選択されたデータを読み込んでいます..."
+msgstr "Ã©ÂÂ¸Ã¦Å Å¾Ã£Ââ€¢Ã£â€šÅ’Ã£ÂÅ¸Ã£Æ’â€¡Ã£Æ’Â¼Ã£â€šÂ¿Ã£â€šâ€™Ã¨ÂªÂ­Ã£ÂÂ¿Ã¨Â¾Â¼Ã£â€šâ€œÃ£ÂÂ§Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢..."
 
 #: public/views/transaction.html
 msgid "Loading Transaction Details"
-msgstr "トランザクションの詳細を読み込んでいます"
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£ÂÂ®Ã¨Â©Â³Ã§Â´Â°Ã£â€šâ€™Ã¨ÂªÂ­Ã£ÂÂ¿Ã¨Â¾Â¼Ã£â€šâ€œÃ£ÂÂ§Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢"
 
 #: public/views/transaction/list.html
 msgid "Loading Transactions..."
-msgstr "トランザクションを読み込んでいます..."
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£â€šâ€™Ã¨ÂªÂ­Ã£ÂÂ¿Ã¨Â¾Â¼Ã£â€šâ€œÃ£ÂÂ§Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢..."
 
 #: public/views/messages_verify.html public/views/transaction_sendraw.html
 #: public/views/includes/infoStatus.html
 msgid "Loading..."
-msgstr "ロード中..."
+msgstr "Ã£Æ’Â­Ã£Æ’Â¼Ã£Æ’â€°Ã¤Â¸Â­..."
 
 #: public/views/messages_verify.html
 msgid "Message"
-msgstr "メッセージ"
+msgstr "Ã£Æ’Â¡Ã£Æ’Æ’Ã£â€šÂ»Ã£Æ’Â¼Ã£â€šÂ¸"
 
 #: public/views/transaction.html
 msgid "Mined Time"
-msgstr "採掘時刻"
+msgstr "Ã¦Å½Â¡Ã¦Å½ËœÃ¦â„¢â€šÃ¥Ë†Â»"
 
 #: public/views/block.html public/views/block_list.html
 #: public/views/index.html
 msgid "Mined by"
-msgstr "採掘者"
+msgstr "Ã¦Å½Â¡Ã¦Å½ËœÃ¨â‚¬â€¦"
 
 #: public/views/status.html
 msgid "Mining Difficulty"
-msgstr "採掘難易度"
+msgstr "Ã¦Å½Â¡Ã¦Å½ËœÃ©â€ºÂ£Ã¦Ëœâ€œÃ¥ÂºÂ¦"
 
 #: public/views/block.html
 msgid "Next Block"
-msgstr "次のブロック"
+msgstr "Ã¦Â¬Â¡Ã£ÂÂ®Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯"
 
 #: public/views/transaction/tx.html
 msgid "No Inputs (Newly Generated Coins)"
-msgstr "入力なし (新しく生成されたコイン)"
+msgstr "Ã¥â€¦Â¥Ã¥Å â€ºÃ£ÂÂªÃ£Ââ€” (Ã¦â€“Â°Ã£Ââ€”Ã£ÂÂÃ§â€Å¸Ã¦Ë†ÂÃ£Ââ€¢Ã£â€šÅ’Ã£ÂÅ¸Ã£â€šÂ³Ã£â€šÂ¤Ã£Æ’Â³)"
 
 #: public/views/block_list.html
 msgid "No blocks yet."
-msgstr "ブロックはありません。"
+msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã£ÂÂ¯Ã£Ââ€šÃ£â€šÅ Ã£ÂÂ¾Ã£Ââ€ºÃ£â€šâ€œÃ£â‚¬â€š"
 
 #: public/views/includes/search.html
 msgid "No matching records found!"
-msgstr "一致するレコードはありません！"
+msgstr "Ã¤Â¸â‚¬Ã¨â€¡Â´Ã£Ââ„¢Ã£â€šâ€¹Ã£Æ’Â¬Ã£â€šÂ³Ã£Æ’Â¼Ã£Æ’â€°Ã£ÂÂ¯Ã£Ââ€šÃ£â€šÅ Ã£ÂÂ¾Ã£Ââ€ºÃ£â€šâ€œÃ¯Â¼Â"
 
 #: public/views/address.html
 msgid "No. Transactions"
-msgstr "トランザクション数"
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã¦â€¢Â°"
 
 #: public/views/block.html
 msgid "Number Of Transactions"
-msgstr "トランザクション数"
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã¦â€¢Â°"
 
 #: public/views/transaction.html
 msgid "Output"
-msgstr "出力"
+msgstr "Ã¥â€¡ÂºÃ¥Å â€º"
 
 #: public/views/index.html
 msgid "Powered by"
@@ -300,311 +300,311 @@ msgstr "Powered by"
 
 #: public/views/block.html
 msgid "Previous Block"
-msgstr "前のブロック"
+msgstr "Ã¥â€°ÂÃ£ÂÂ®Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯"
 
 #: public/views/status.html
 msgid "Protocol version"
-msgstr "プロトコルバージョン"
+msgstr "Ã£Æ’â€”Ã£Æ’Â­Ã£Æ’Ë†Ã£â€šÂ³Ã£Æ’Â«Ã£Æ’ÂÃ£Æ’Â¼Ã£â€šÂ¸Ã£Æ’Â§Ã£Æ’Â³"
 
 #: public/views/status.html
 msgid "Proxy setting"
-msgstr "プロキシ設定"
+msgstr "Ã£Æ’â€”Ã£Æ’Â­Ã£â€šÂ­Ã£â€šÂ·Ã¨Â¨Â­Ã¥Â®Å¡"
 
 #: public/views/transaction_sendraw.html
 msgid "Raw transaction data"
-msgstr "トランザクションの生データ"
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£ÂÂ®Ã§â€Å¸Ã£Æ’â€¡Ã£Æ’Â¼Ã£â€šÂ¿"
 
 #: public/views/transaction_sendraw.html
 msgid "Raw transaction data must be a valid hexadecimal string."
-msgstr "生のトランザクションデータは有効な16進数でなければいけません。"
+msgstr "Ã§â€Å¸Ã£ÂÂ®Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£Æ’â€¡Ã£Æ’Â¼Ã£â€šÂ¿Ã£ÂÂ¯Ã¦Å“â€°Ã¥Å Â¹Ã£ÂÂª16Ã©â‚¬Â²Ã¦â€¢Â°Ã£ÂÂ§Ã£ÂÂªÃ£Ââ€˜Ã£â€šÅ’Ã£ÂÂ°Ã£Ââ€žÃ£Ââ€˜Ã£ÂÂ¾Ã£Ââ€ºÃ£â€šâ€œÃ£â‚¬â€š"
 
 #: public/views/transaction.html
 msgid "Received Time"
-msgstr "受信時刻"
+msgstr "Ã¥Ââ€”Ã¤Â¿Â¡Ã¦â„¢â€šÃ¥Ë†Â»"
 
 #: public/views/redirect.html
 msgid "Redirecting..."
-msgstr "リダイレクトしています..."
+msgstr "Ã£Æ’ÂªÃ£Æ’â‚¬Ã£â€šÂ¤Ã£Æ’Â¬Ã£â€šÂ¯Ã£Æ’Ë†Ã£Ââ€”Ã£ÂÂ¦Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢..."
 
 #: public/views/includes/search.html
 msgid "Search for block, transaction or address"
-msgstr "ブロック、トランザクション、アドレスを検索"
+msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã£â‚¬ÂÃ£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£â‚¬ÂÃ£â€šÂ¢Ã£Æ’â€°Ã£Æ’Â¬Ã£â€šÂ¹Ã£â€šâ€™Ã¦Â¤Å“Ã§Â´Â¢"
 
 #: public/views/index.html
 msgid "See all blocks"
-msgstr "すべてのブロックをみる"
+msgstr "Ã£Ââ„¢Ã£ÂÂ¹Ã£ÂÂ¦Ã£ÂÂ®Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã£â€šâ€™Ã£ÂÂ¿Ã£â€šâ€¹"
 
 #: public/views/transaction_sendraw.html
 msgid "Send transaction"
-msgstr "トランザクションを送信"
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£â€šâ€™Ã©â‚¬ÂÃ¤Â¿Â¡"
 
 #: public/views/status.html
 msgid "Show Transaction Output data"
-msgstr "トランザクションの出力データをみる"
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£ÂÂ®Ã¥â€¡ÂºÃ¥Å â€ºÃ£Æ’â€¡Ã£Æ’Â¼Ã£â€šÂ¿Ã£â€šâ€™Ã£ÂÂ¿Ã£â€šâ€¹"
 
 #: public/views/transaction/tx.html
 msgid "Show all"
-msgstr "すべて表示"
+msgstr "Ã£Ââ„¢Ã£ÂÂ¹Ã£ÂÂ¦Ã¨Â¡Â¨Ã§Â¤Âº"
 
 #: public/views/transaction/tx.html
 msgid "Show input"
-msgstr "入力を表示"
+msgstr "Ã¥â€¦Â¥Ã¥Å â€ºÃ£â€šâ€™Ã¨Â¡Â¨Ã§Â¤Âº"
 
 #: public/views/transaction/tx.html
 msgid "Show less"
-msgstr "隠す"
+msgstr "Ã©Å¡Â Ã£Ââ„¢"
 
 #: public/views/transaction/tx.html
 msgid "Show more"
-msgstr "表示する"
+msgstr "Ã¨Â¡Â¨Ã§Â¤ÂºÃ£Ââ„¢Ã£â€šâ€¹"
 
 #: public/views/messages_verify.html
 msgid "Signature"
-msgstr "署名"
+msgstr "Ã§Â½Â²Ã¥ÂÂ"
 
 #: public/views/block_list.html public/views/index.html
 #: public/views/transaction.html
 msgid "Size"
-msgstr "サイズ"
+msgstr "Ã£â€šÂµÃ£â€šÂ¤Ã£â€šÂº"
 
 #: public/views/block.html
 msgid "Size (bytes)"
-msgstr "サイズ (バイト)"
+msgstr "Ã£â€šÂµÃ£â€šÂ¤Ã£â€šÂº (Ã£Æ’ÂÃ£â€šÂ¤Ã£Æ’Ë†)"
 
 #: public/views/status.html
 msgid "Skipped Blocks (previously synced)"
-msgstr "スキップされたブロック (同期済み)"
+msgstr "Ã£â€šÂ¹Ã£â€šÂ­Ã£Æ’Æ’Ã£Æ’â€”Ã£Ââ€¢Ã£â€šÅ’Ã£ÂÅ¸Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯ (Ã¥ÂÅ’Ã¦Å“Å¸Ã¦Â¸Ë†Ã£ÂÂ¿)"
 
 #: public/views/status.html
 msgid "Start Date"
-msgstr "開始日時"
+msgstr "Ã©â€“â€¹Ã¥Â§â€¹Ã¦â€”Â¥Ã¦â„¢â€š"
 
 #: public/views/dummy-translations.html
 msgid "Status"
-msgstr "ステータス"
+msgstr "Ã£â€šÂ¹Ã£Æ’â€ Ã£Æ’Â¼Ã£â€šÂ¿Ã£â€šÂ¹"
 
 #: public/views/block.html public/views/transaction.html
 msgid "Summary"
-msgstr "概要"
+msgstr "Ã¦Â¦â€šÃ¨Â¦Â"
 
 #: public/views/address.html
 msgid "Summary <small>confirmed</small>"
-msgstr "サマリ <small>検証済み</small>"
+msgstr "Ã£â€šÂµÃ£Æ’Å¾Ã£Æ’Âª <small>Ã¦Â¤Å“Ã¨Â¨Â¼Ã¦Â¸Ë†Ã£ÂÂ¿</small>"
 
 #: public/views/status.html
 msgid "Sync Progress"
-msgstr "同期の進捗状況"
+msgstr "Ã¥ÂÅ’Ã¦Å“Å¸Ã£ÂÂ®Ã©â‚¬Â²Ã¦Ââ€”Ã§Å Â¶Ã¦Â³Â"
 
 #: public/views/status.html
 msgid "Sync Status"
-msgstr "同期ステータス"
+msgstr "Ã¥ÂÅ’Ã¦Å“Å¸Ã£â€šÂ¹Ã£Æ’â€ Ã£Æ’Â¼Ã£â€šÂ¿Ã£â€šÂ¹"
 
 #: public/views/status.html
 msgid "Sync Type"
-msgstr "同期タイプ"
+msgstr "Ã¥ÂÅ’Ã¦Å“Å¸Ã£â€šÂ¿Ã£â€šÂ¤Ã£Æ’â€”"
 
 #: public/views/status.html
 msgid "Synced Blocks"
-msgstr "同期されたブロック数"
+msgstr "Ã¥ÂÅ’Ã¦Å“Å¸Ã£Ââ€¢Ã£â€šÅ’Ã£ÂÅ¸Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã¦â€¢Â°"
 
 #: public/views/status.html
 msgid "Testnet"
-msgstr "テストネット"
+msgstr "Ã£Æ’â€ Ã£â€šÂ¹Ã£Æ’Ë†Ã£Æ’ÂÃ£Æ’Æ’Ã£Æ’Ë†"
 
 #: public/views/messages_verify.html
 msgid "The message failed to verify."
-msgstr "メッセージの検証に失敗しました。"
+msgstr "Ã£Æ’Â¡Ã£Æ’Æ’Ã£â€šÂ»Ã£Æ’Â¼Ã£â€šÂ¸Ã£ÂÂ®Ã¦Â¤Å“Ã¨Â¨Â¼Ã£ÂÂ«Ã¥Â¤Â±Ã¦â€¢â€”Ã£Ââ€”Ã£ÂÂ¾Ã£Ââ€”Ã£ÂÅ¸Ã£â‚¬â€š"
 
 #: public/views/messages_verify.html
 msgid "The message is verifiably from {{verification.address}}."
-msgstr "メッセージは{{verification.address}}により検証されました。"
+msgstr "Ã£Æ’Â¡Ã£Æ’Æ’Ã£â€šÂ»Ã£Æ’Â¼Ã£â€šÂ¸Ã£ÂÂ¯{{verification.address}}Ã£ÂÂ«Ã£â€šË†Ã£â€šÅ Ã¦Â¤Å“Ã¨Â¨Â¼Ã£Ââ€¢Ã£â€šÅ’Ã£ÂÂ¾Ã£Ââ€”Ã£ÂÅ¸Ã£â‚¬â€š"
 
 #: public/views/transaction/list.html
 msgid "There are no transactions involving this address."
-msgstr "このアドレスに対するトランザクションはありません。"
+msgstr "Ã£Ââ€œÃ£ÂÂ®Ã£â€šÂ¢Ã£Æ’â€°Ã£Æ’Â¬Ã£â€šÂ¹Ã£ÂÂ«Ã¥Â¯Â¾Ã£Ââ„¢Ã£â€šâ€¹Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£ÂÂ¯Ã£Ââ€šÃ£â€šÅ Ã£ÂÂ¾Ã£Ââ€ºÃ£â€šâ€œÃ£â‚¬â€š"
 
 #: public/views/transaction_sendraw.html
 msgid ""
 "This form can be used to broadcast a raw transaction in hex format over\n"
-"        the Dash network."
+"        the Xchange network."
 msgstr ""
-"このフォームでは、16進数フォーマットの生のトランザクションをDashネットワー"
-"ク上に配信することができます。"
+"Ã£Ââ€œÃ£ÂÂ®Ã£Æ’â€¢Ã£â€šÂ©Ã£Æ’Â¼Ã£Æ’Â Ã£ÂÂ§Ã£ÂÂ¯Ã£â‚¬Â16Ã©â‚¬Â²Ã¦â€¢Â°Ã£Æ’â€¢Ã£â€šÂ©Ã£Æ’Â¼Ã£Æ’Å¾Ã£Æ’Æ’Ã£Æ’Ë†Ã£ÂÂ®Ã§â€Å¸Ã£ÂÂ®Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£â€šâ€™XchangeÃ£Æ’ÂÃ£Æ’Æ’Ã£Æ’Ë†Ã£Æ’Â¯Ã£Æ’Â¼"
+"Ã£â€šÂ¯Ã¤Â¸Å Ã£ÂÂ«Ã©â€¦ÂÃ¤Â¿Â¡Ã£Ââ„¢Ã£â€šâ€¹Ã£Ââ€œÃ£ÂÂ¨Ã£ÂÅ’Ã£ÂÂ§Ã£ÂÂÃ£ÂÂ¾Ã£Ââ„¢Ã£â‚¬â€š"
 
 #: public/views/messages_verify.html
 msgid ""
 "This form can be used to verify that a message comes from\n"
-"        a specific Dash address."
+"        a specific Xchange address."
 msgstr ""
-"このフォームでは、メッセージが特定のDashアドレスから来たかどうかを検証する"
-"ことができます。"
+"Ã£Ââ€œÃ£ÂÂ®Ã£Æ’â€¢Ã£â€šÂ©Ã£Æ’Â¼Ã£Æ’Â Ã£ÂÂ§Ã£ÂÂ¯Ã£â‚¬ÂÃ£Æ’Â¡Ã£Æ’Æ’Ã£â€šÂ»Ã£Æ’Â¼Ã£â€šÂ¸Ã£ÂÅ’Ã§â€°Â¹Ã¥Â®Å¡Ã£ÂÂ®XchangeÃ£â€šÂ¢Ã£Æ’â€°Ã£Æ’Â¬Ã£â€šÂ¹Ã£Ââ€¹Ã£â€šâ€°Ã¦ÂÂ¥Ã£ÂÅ¸Ã£Ââ€¹Ã£ÂÂ©Ã£Ââ€ Ã£Ââ€¹Ã£â€šâ€™Ã¦Â¤Å“Ã¨Â¨Â¼Ã£Ââ„¢Ã£â€šâ€¹"
+"Ã£Ââ€œÃ£ÂÂ¨Ã£ÂÅ’Ã£ÂÂ§Ã£ÂÂÃ£ÂÂ¾Ã£Ââ„¢Ã£â‚¬â€š"
 
 #: public/views/status.html
 msgid "Time Offset"
-msgstr "時間オフセット"
+msgstr "Ã¦â„¢â€šÃ©â€“â€œÃ£â€šÂªÃ£Æ’â€¢Ã£â€šÂ»Ã£Æ’Æ’Ã£Æ’Ë†"
 
 #: public/views/block.html public/views/block_list.html
 msgid "Timestamp"
-msgstr "タイムスタンプ"
+msgstr "Ã£â€šÂ¿Ã£â€šÂ¤Ã£Æ’Â Ã£â€šÂ¹Ã£â€šÂ¿Ã£Æ’Â³Ã£Æ’â€”"
 
 #: public/views/block_list.html
 msgid "Today"
-msgstr "今日"
+msgstr "Ã¤Â»Å Ã¦â€”Â¥"
 
 #: public/views/status.html
 msgid "Total Amount"
-msgstr "Dash総量"
+msgstr "XchangeÃ§Â·ÂÃ©â€¡Â"
 
 #: public/views/address.html
 msgid "Total Received"
-msgstr "総入金額"
+msgstr "Ã§Â·ÂÃ¥â€¦Â¥Ã©â€¡â€˜Ã©Â¡Â"
 
 #: public/views/address.html
 msgid "Total Sent"
-msgstr "総送金額"
+msgstr "Ã§Â·ÂÃ©â‚¬ÂÃ©â€¡â€˜Ã©Â¡Â"
 
 #: public/views/transaction.html
 msgid "Transaction"
-msgstr "トランザクション"
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³"
 
 #: public/views/status.html
 msgid "Transaction Output Set Information"
-msgstr "トランザクションの出力セット情報"
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£ÂÂ®Ã¥â€¡ÂºÃ¥Å â€ºÃ£â€šÂ»Ã£Æ’Æ’Ã£Æ’Ë†Ã¦Æ’â€¦Ã¥Â Â±"
 
 #: public/views/status.html
 msgid "Transaction Outputs"
-msgstr "トランザクションの出力"
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£ÂÂ®Ã¥â€¡ÂºÃ¥Å â€º"
 
 #: public/views/transaction_sendraw.html
 msgid "Transaction succesfully broadcast.<br>Transaction id: {{txid}}"
-msgstr "トランザクションの配信に成功しました。<br>トランザクションID: {{txid}}"
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£ÂÂ®Ã©â€¦ÂÃ¤Â¿Â¡Ã£ÂÂ«Ã¦Ë†ÂÃ¥Å Å¸Ã£Ââ€”Ã£ÂÂ¾Ã£Ââ€”Ã£ÂÅ¸Ã£â‚¬â€š<br>Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³ID: {{txid}}"
 
 #: public/views/address.html public/views/block.html
 #: public/views/block_list.html public/views/index.html
 #: public/views/status.html
 msgid "Transactions"
-msgstr "トランザクション"
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³"
 
 #: public/views/transaction/tx.html
 msgid "Type"
-msgstr "タイプ"
+msgstr "Ã£â€šÂ¿Ã£â€šÂ¤Ã£Æ’â€”"
 
 #: public/views/address.html
 msgid "Unconfirmed"
-msgstr "未検証"
+msgstr "Ã¦Å“ÂªÃ¦Â¤Å“Ã¨Â¨Â¼"
 
 #: public/views/transaction.html public/views/transaction/tx.html
 msgid "Unconfirmed Transaction!"
-msgstr "未検証のトランザクションです！"
+msgstr "Ã¦Å“ÂªÃ¦Â¤Å“Ã¨Â¨Â¼Ã£ÂÂ®Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£ÂÂ§Ã£Ââ„¢Ã¯Â¼Â"
 
 #: public/views/address.html
 msgid "Unconfirmed Txs Balance"
-msgstr "未検証トランザクションの残高"
+msgstr "Ã¦Å“ÂªÃ¦Â¤Å“Ã¨Â¨Â¼Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£ÂÂ®Ã¦Â®â€¹Ã©Â«Ëœ"
 
 #: public/views/index.html
 msgid "Value Out"
-msgstr "出力値"
+msgstr "Ã¥â€¡ÂºÃ¥Å â€ºÃ¥â‚¬Â¤"
 
 #: public/views/messages_verify.html
 msgid "Verify"
-msgstr "検証"
+msgstr "Ã¦Â¤Å“Ã¨Â¨Â¼"
 
 #: public/views/messages_verify.html
 msgid "Verify signed message"
-msgstr "署名済みメッセージを検証"
+msgstr "Ã§Â½Â²Ã¥ÂÂÃ¦Â¸Ë†Ã£ÂÂ¿Ã£Æ’Â¡Ã£Æ’Æ’Ã£â€šÂ»Ã£Æ’Â¼Ã£â€šÂ¸Ã£â€šâ€™Ã¦Â¤Å“Ã¨Â¨Â¼"
 
 #: public/views/block.html public/views/status.html
 msgid "Version"
-msgstr "バージョン"
+msgstr "Ã£Æ’ÂÃ£Æ’Â¼Ã£â€šÂ¸Ã£Æ’Â§Ã£Æ’Â³"
 
 #: public/views/block_list.html public/views/index.html
 msgid "Waiting for blocks..."
-msgstr "ブロックを待っています..."
+msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã£â€šâ€™Ã¥Â¾â€¦Ã£ÂÂ£Ã£ÂÂ¦Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢..."
 
 #: public/views/index.html
 msgid "Waiting for transactions..."
-msgstr "トランザクションを待っています..."
+msgstr "Ã£Æ’Ë†Ã£Æ’Â©Ã£Æ’Â³Ã£â€šÂ¶Ã£â€šÂ¯Ã£â€šÂ·Ã£Æ’Â§Ã£Æ’Â³Ã£â€šâ€™Ã¥Â¾â€¦Ã£ÂÂ£Ã£ÂÂ¦Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢..."
 
 #: public/views/block_list.html
 msgid "by date."
-msgstr "日毎。"
+msgstr "Ã¦â€”Â¥Ã¦Â¯Å½Ã£â‚¬â€š"
 
 #: public/views/transaction/tx.html
 msgid "first seen at"
-msgstr "最初に発見された日時"
+msgstr "Ã¦Å“â‚¬Ã¥Ë†ÂÃ£ÂÂ«Ã§â„¢ÂºÃ¨Â¦â€¹Ã£Ââ€¢Ã£â€šÅ’Ã£ÂÅ¸Ã¦â€”Â¥Ã¦â„¢â€š"
 
 #: public/views/transaction/tx.html
 msgid "mined"
-msgstr "採掘された"
+msgstr "Ã¦Å½Â¡Ã¦Å½ËœÃ£Ââ€¢Ã£â€šÅ’Ã£ÂÅ¸"
 
 #: public/views/block_list.html
 msgid "mined on:"
-msgstr "採掘日時:"
+msgstr "Ã¦Å½Â¡Ã¦Å½ËœÃ¦â€”Â¥Ã¦â„¢â€š:"
 
 #~ msgid "(Mainchain)"
-#~ msgstr "(メインチェーン)"
+#~ msgstr "(Ã£Æ’Â¡Ã£â€šÂ¤Ã£Æ’Â³Ã£Æ’ÂÃ£â€šÂ§Ã£Æ’Â¼Ã£Æ’Â³)"
 
 #~ msgid "(Orphaned)"
-#~ msgstr "(孤立したブロック)"
+#~ msgstr "(Ã¥Â­Â¤Ã§Â«â€¹Ã£Ââ€”Ã£ÂÅ¸Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯)"
 
 #~ msgid "Bits"
 #~ msgstr "Bits"
 
 #~ msgid "Block #{{block.height}}"
-#~ msgstr "ブロック #{{block.height}}"
+#~ msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯ #{{block.height}}"
 
 #~ msgid "BlockHash"
-#~ msgstr "ブロックのハッシュ値"
+#~ msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã£ÂÂ®Ã£Æ’ÂÃ£Æ’Æ’Ã£â€šÂ·Ã£Æ’Â¥Ã¥â‚¬Â¤"
 
 #~ msgid "Blocks <br> mined on:"
-#~ msgstr "ブロック <br> 採掘日"
+#~ msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯ <br> Ã¦Å½Â¡Ã¦Å½ËœÃ¦â€”Â¥"
 
 #~ msgid "Coinbase"
-#~ msgstr "コインベース"
+#~ msgstr "Ã£â€šÂ³Ã£â€šÂ¤Ã£Æ’Â³Ã£Æ’â„¢Ã£Æ’Â¼Ã£â€šÂ¹"
 
 #~ msgid "Hash"
-#~ msgstr "ハッシュ値"
+#~ msgstr "Ã£Æ’ÂÃ£Æ’Æ’Ã£â€šÂ·Ã£Æ’Â¥Ã¥â‚¬Â¤"
 
 #~ msgid "LockTime"
-#~ msgstr "ロック時間"
+#~ msgstr "Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã¦â„¢â€šÃ©â€“â€œ"
 
 #~ msgid "Merkle Root"
-#~ msgstr "Merkleルート"
+#~ msgstr "MerkleÃ£Æ’Â«Ã£Æ’Â¼Ã£Æ’Ë†"
 
 #~ msgid "Nonce"
 #~ msgstr "Nonce"
 
 #~ msgid "Ooops!"
-#~ msgstr "おぉっと！"
+#~ msgstr "Ã£ÂÅ Ã£Ââ€°Ã£ÂÂ£Ã£ÂÂ¨Ã¯Â¼Â"
 
 #~ msgid "Output is spent"
-#~ msgstr "出力は使用済みです"
+#~ msgstr "Ã¥â€¡ÂºÃ¥Å â€ºÃ£ÂÂ¯Ã¤Â½Â¿Ã§â€Â¨Ã¦Â¸Ë†Ã£ÂÂ¿Ã£ÂÂ§Ã£Ââ„¢"
 
 #~ msgid "Output is unspent"
-#~ msgstr "出力は未使用です"
+#~ msgstr "Ã¥â€¡ÂºÃ¥Å â€ºÃ£ÂÂ¯Ã¦Å“ÂªÃ¤Â½Â¿Ã§â€Â¨Ã£ÂÂ§Ã£Ââ„¢"
 
 #~ msgid "Scan"
-#~ msgstr "スキャン"
+#~ msgstr "Ã£â€šÂ¹Ã£â€šÂ­Ã£Æ’Â£Ã£Æ’Â³"
 
 #~ msgid "Show/Hide items details"
-#~ msgstr "アイテムの詳細を表示または隠す"
+#~ msgstr "Ã£â€šÂ¢Ã£â€šÂ¤Ã£Æ’â€ Ã£Æ’Â Ã£ÂÂ®Ã¨Â©Â³Ã§Â´Â°Ã£â€šâ€™Ã¨Â¡Â¨Ã§Â¤ÂºÃ£ÂÂ¾Ã£ÂÅ¸Ã£ÂÂ¯Ã©Å¡Â Ã£Ââ„¢"
 
 #~ msgid "Waiting for blocks"
-#~ msgstr "ブロックを待っています"
+#~ msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã£â€šâ€™Ã¥Â¾â€¦Ã£ÂÂ£Ã£ÂÂ¦Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢"
 
 #~ msgid "by date. {{detail}} {{before}}"
-#~ msgstr "日時順 {{detail}} {{before}}"
+#~ msgstr "Ã¦â€”Â¥Ã¦â„¢â€šÃ©Â â€  {{detail}} {{before}}"
 
 #~ msgid "scriptSig"
 #~ msgstr "scriptSig"
 
 #~ msgid "{{tx.confirmations}} Confirmations"
-#~ msgstr "{{tx.confirmations}} 検証"
+#~ msgstr "{{tx.confirmations}} Ã¦Â¤Å“Ã¨Â¨Â¼"
 
 #~ msgid "<span class=\"glyphicon glyphicon-warning-sign\"></span> (Orphaned)"
 #~ msgstr ""
-#~ "<span class=\"glyphicon glyphicon-warning-sign\"></span> (孤立したブロッ"
-#~ "ク)"
+#~ "<span class=\"glyphicon glyphicon-warning-sign\"></span> (Ã¥Â­Â¤Ã§Â«â€¹Ã£Ââ€”Ã£ÂÅ¸Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’"
+#~ "Ã£â€šÂ¯)"
 
 #~ msgid ""
 #~ "<span class=\"glyphicon glyphicon-warning-sign\"></span> Incoherence in "
@@ -614,4 +614,4 @@ msgstr "採掘日時:"
 #~ "levelDB detected: {{vin.dbError}}"
 
 #~ msgid "Waiting for blocks <span class=\"loader-gif\"></span>"
-#~ msgstr "ブロックを待っています <span class=\"loader-gif\"></span>"
+#~ msgstr "Ã£Æ’â€“Ã£Æ’Â­Ã£Æ’Æ’Ã£â€šÂ¯Ã£â€šâ€™Ã¥Â¾â€¦Ã£ÂÂ£Ã£ÂÂ¦Ã£Ââ€žÃ£ÂÂ¾Ã£Ââ„¢ <span class=\"loader-gif\"></span>"
